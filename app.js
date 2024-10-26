@@ -12,7 +12,7 @@ const app = express();
 
 // MongoDB connection
 mongoose
-  .connect("mongodb://127.0.0.1:27017/womenSafetyApp", {
+  .connect("mongodb+srv://geetikabehl2005:t9fS1LXPUPOH0jiY@cluster0.q59kw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0", {
     useNewUrlParser: true,
     useUnifiedTopology: true,
   })
