@@ -19,7 +19,7 @@ Nidar Naari is a web application designed with the mission of empowering and pro
 **Video Demonstration**
 
 Watch the walkthrough of the Nidar Naari application to understand its features and functionality:
-[Click Here to Watch the Video]( (https://youtu.be/AMHIUJ19faI?feature=shared)
+[Click Here to Watch the Video](https://youtu.be/AMHIUJ19faI?feature=shared)
 
 **Tech Stack**
 
@@ -58,8 +58,7 @@ Watch the walkthrough of the Nidar Naari application to understand its features 
      Create a .env file and add your environment variables:
 
        ```GOOGLE_MAPS_API_KEY=your_google_maps_api_key
-UBER_API_KEY=your_uber_api_key
-MONGO_URI=your_mongodb_connection_string```
+UBER_API_KEY=your_uber_api_key```
 
      Start the server:
 
